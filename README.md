@@ -21,6 +21,22 @@ Hope the compilation can save you efforts and offer you insights. Enjoy!
 
 ======
 
+### [UPenn and Mayo Clinic's Seizure Detection Challenge](https://www.kaggle.com/c/seizure-detection)
+
+Mon 19 May 2014 – Tue 19 Aug 2014
+
+Detect seizures in intracranial EEG recordings
+
+======
+
+### [DecMeg2014 - Decoding the Human Brain](https://www.kaggle.com/c/decoding-the-human-brain)
+
+Mon 21 Apr 2014 – Sun 27 Jul 2014
+
+Predict visual stimuli from MEG recordings of human brain activity
+
+======
+
 ### [CONNECTOMICS](https://www.kaggle.com/c/connectomics)
 
 Wed 5 Feb 2014 – Mon 5 May 2014
