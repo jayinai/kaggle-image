@@ -14,10 +14,122 @@ This is only one list of the whole compilation. For other lists of competitions 
 
 * Kaggle - [Regression](https://github.com/ShuaiW/kaggle-regression/)
 * Kaggle - [Classification](https://github.com/ShuaiW/kaggle-classification/)
-* Kaggle - [NLP](https://github.com/ShuaiW/kaggle-nlp)
+* Kaggle - [Sequence](https://github.com/ShuaiW/kaggle-sequence)
 * Kaggle - [Miscellaneous](https://github.com/ShuaiW/kaggle-miscellaneous)
 
 Hope the compilation can save you efforts and offer you insights. Enjoy!
+
+======
+
+### [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
+
+Wed 25 Jul 2012 - Sat 31 Dec 2016
+
+Classify handwritten digits using the famous MNIST data
+
+======
+
+### [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection)
+
+Tue 7 May 2013 - Sat 31 Dec 2016
+
+Detect the location of keypoints on face images
+
+======
+
+### [First Steps With Julia](https://www.kaggle.com/c/street-view-getting-started-with-julia)
+
+Mon 4 Aug 2014 - Sat 31 Dec 2016
+
+Use Julia to identify characters from Google Street View images
+
+======
+
+### [Painter by Numbers](https://www.kaggle.com/c/painter-by-numbers)
+
+Fri 29 Apr 2016 - Mon 31 Oct 2016
+
+Does every painter leave a fingerprint?
+
+======
+
+### [Ultrasound Nerve Segmentation](https://www.kaggle.com/c/ultrasound-nerve-segmentation)
+
+Thu 19 May 2016 - Thu 18 Aug 2016 
+
+Identify nerve structures in ultrasound images of the neck
+
+======
+
+### [State Farm Distracted Driver Detection](https://www.kaggle.com/c/state-farm-distracted-driver-detection)
+
+Tue 5 Apr 2016 - Mon 1 Aug 2016
+
+Can computer vision spot distracted drivers?
+
+======
+
+### [Avito Duplicate Ads Detection](https://www.kaggle.com/c/avito-duplicate-ads-detection)
+
+Fri 6 May 2016 – Mon 11 Jul 2016
+
+Can you detect duplicitous duplicate ads?
+
+======
+
+### [Draper Satellite Image Chronology](https://www.kaggle.com/c/draper-satellite-image-chronology)
+
+Fri 29 Apr 2016 – Mon 27 Jun 2016
+
+Draper provides a unique dataset of images taken at the same locations over 5 days. Kagglers are challenged to predict the chronological order of the photos taken at each location. Accurately doing so could uncover approaches that have a global impact on commerce, science, and humanitarian works.
+
+======
+
+### [Yelp Restaurant Photo Classification](https://www.kaggle.com/c/yelp-restaurant-photo-classification)
+
+Mon 21 Dec 2015 – Tue 12 Apr 2016
+
+In this competition, Yelp is challenging Kagglers to build a model that automatically tags restaurants with multiple labels using a dataset of user-submitted photos.
+
+======
+
+### [Second Annual Data Science Bowl](https://www.kaggle.com/c/second-annual-data-science-bowl)
+
+Mon 14 Dec 2015 – Mon 14 Mar 2016
+
+Transforming How We Diagnose Heart Disease
+
+======
+
+### [Right Whale Recognition](https://www.kaggle.com/c/noaa-right-whale-recognition)
+
+Thu 27 Aug 2015 – Thu 7 Jan 2016
+
+Identify endangered right whales in aerial photographs
+
+======
+
+### [Diabetic Retinopathy Detection](https://www.kaggle.com/c/diabetic-retinopathy-detection)
+
+Tue 17 Feb 2015 – Mon 27 Jul 2015
+
+Identify signs of diabetic retinopathy in eye images
+
+======
+
+### [National Data Science Bowl](https://www.kaggle.com/c/datasciencebowl)
+
+Mon 15 Dec 2014 – Mon 16 Mar 2015
+
+Predict ocean health, one plankton at a time
+
+======
+
+### [CIFAR-10 - Object Recognition in Images](https://www.kaggle.com/c/cifar-10)
+
+Fri 18 Oct 2013 – Sat 18 Oct 2014
+
+Identify the subject of 60,000 labeled images
 
 ======
 
