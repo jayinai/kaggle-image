@@ -99,6 +99,10 @@ Mon 14 Dec 2015 – Mon 14 Mar 2016
 
 Transforming How We Diagnose Heart Disease
 
+* 1st place: [code](https://github.com/ShuaiW/diagnose-heart)
+* 2nd place: [code](https://github.com/ShuaiW/kaggle-heart) | [interview](http://blog.kaggle.com/2016/04/13/diagnosing-heart-diseases-with-deep-neural-networks-2nd-place-ira-korshunova/)
+* 3rd place: [code](https://github.com/ShuaiW/kaggle_ndsb2)
+
 ======
 
 ### [Right Whale Recognition](https://www.kaggle.com/c/noaa-right-whale-recognition)
