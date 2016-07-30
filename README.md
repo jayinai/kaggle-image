@@ -102,6 +102,7 @@ Transforming How We Diagnose Heart Disease
 * 1st place: [code](https://github.com/ShuaiW/diagnose-heart)
 * 2nd place: [code](https://github.com/ShuaiW/kaggle-heart) | [interview](http://blog.kaggle.com/2016/04/13/diagnosing-heart-diseases-with-deep-neural-networks-2nd-place-ira-korshunova/)
 * 3rd place: [code](https://github.com/ShuaiW/kaggle_ndsb2)
+* [Keras code] (https://github.com/ShuaiW/kaggle-dsb2-keras): ~0.036
 
 ======
 
